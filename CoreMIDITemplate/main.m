@@ -2,7 +2,7 @@
 //  main.m
 //  CoreMIDITemplate
 //
-//  Created by Maxime Bokobza on 9/1/13.
+//  Created by Maxime Bokobza on 8/1/13.
 //  Copyright (c) 2013 Maxime Bokobza. All rights reserved.
 //
 
